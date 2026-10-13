@@ -1,7 +1,5 @@
 # cotton-tomato-leaf-disease
 
-Explainable AI-based deep learning approach for plant disease classification using CNN and hybrid CNN-SVM models with Grad-CAM, SHAP, and LIME interpretability.
-
 Paper Title: 
 Plant Disease Classifier: Detection of Dual-Crop Diseases Using Lightweight 2D CNN Architecture
 Official implementation of the paper published in IEEE Access, 2023.
